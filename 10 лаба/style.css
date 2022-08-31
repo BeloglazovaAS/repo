@@ -1,0 +1,76 @@
+figure {
+  background: rgba(0,0,0,0.5);
+  padding: 15px; 
+  margin-left: 15%;
+  width: 50%;
+  float: left;
+  display:table-cell;
+}
+
+a {
+  color: #990000;
+}
+
+.marker {
+  padding: 15px; 
+  margin-left: 5%;
+  width: 70%;
+  float: left;
+  display:table-cell;
+  color: #FF6000;
+  font-size: 24pt;
+  font-weight: bold;
+  font-family: 'Century Gothic';
+}
+
+.right {
+  float: right;
+  width: 60%;
+  text-align: center;
+  margin-top: 60px;
+}
+
+body {
+  font-family: Arial, Verdana,  sans-serif;
+  font-size: 11pt;
+  background-color: #C7E1FF; 
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-right: 25%;
+  margin-top: 60px;
+  color: #990000;
+  font-size: 72pt;
+  font-family: 'Century Gothic';
+  text-shadow: 3px 3px 6px rgb(0, 0, 0);
+}
+
+figcaption {
+  color: #990000;
+  font-size: 12pt;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Century Gothic';
+}
+
+h2 {
+  color: #990000;
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: justify;
+  font-family: 'Century Gothic';
+  text-shadow: 1px 1px 1px rgb(172, 172, 172), 0 0 5px rgb(255, 0, 255);
+}
+
+button {
+  color: #AB4100;
+  font-size: 11pt;
+  font-family: 'Century Gothic';
+}
+img {
+  float: left;
+  padding: 5px;
+}
+
